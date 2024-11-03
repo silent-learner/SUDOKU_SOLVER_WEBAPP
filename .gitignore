@@ -1,0 +1,4 @@
+digits/
+images.npy
+labels.npy
+best_model.h5.keras
